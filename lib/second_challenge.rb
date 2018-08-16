@@ -7,7 +7,7 @@ def second_challenge
   }
 
   #code your solution here!
-
-  
-
+ha=[]
+ha.push(groceries.values)
+return ha.flatten
 end
